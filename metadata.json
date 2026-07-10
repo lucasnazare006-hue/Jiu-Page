@@ -1,0 +1,6 @@
+{
+  "name": "Brotherhood Jiu-Jitsu",
+  "description": "Premium landing page for Brotherhood Jiu-Jitsu in Belém, PA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
